@@ -1,5 +1,1 @@
-M
-A:wq
-A
-B
-#this is for demo
+#"this is for demo for commiting in vscode"
